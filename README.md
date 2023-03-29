@@ -1,0 +1,3 @@
+nunchuck_funchのオリジナルは以下にあります。
+Arduino向けに開発されたものをESP32ように改変しました
+https://github.com/todbot/wiichuck_adapter
